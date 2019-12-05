@@ -11,6 +11,7 @@ int main()
 		 j = j -1;
 	   }
 	   printf("%i", acumulador);
+	   puts("palmeiras nao tem mundial");
 
 
 
